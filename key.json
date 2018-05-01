@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bamboo-century-201222",
+  "private_key_id": "7655f3992d20d7481430c4b71bc38fcd29b92455",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDIVH7Vhem3Gqxf\ndyV16Kpyihm1AZH+BPTFz6XWsPzFen5jcvzmyvVQjxJNHSJmNuYbKfQr/ZM7/WGi\nLemhOuA45Z4XoV2rCaJMnlJAiJxSWLoA3DYjhOU0Adpb7HUAfr9Dv/7g84M+8Q88\niajoE2lLOFF7rVC5VQj7aPFHpNM97ZZjxDwK4Re2TlreIgRnamhc1X/IXifofK8w\no+uqsg+q7kpy5hEsTzKyeTvbvVzbztnygHnA+i2IWeN3+JEyQaHCZupR4QTZFy4q\nThm0KqMP/oatnWMSvl9+4Wftg0t+znTdeNZKGHOiFNlemEdusZS5+Dhqx6MTu5kS\nZIy3yID5AgMBAAECggEADGpuNPIYftRsn/sMq47Yt4IXH0iCYZWxjOv2aYStGdki\naav4AB7OjuhbGEPovKCE6OSUAUD1RdfJnAlP7EHvoR8cCfdijIXrlOeQDfdZhuIA\nXyrGwTNMmElQHPfd9YKlfH+y/oKhHP7INLaMbRu84CBUrn9anC3owVoq8AeHXxRV\nF6B8WkpLgpZtdMX6++n/dxlOdY+NmsNDwZYHh6ngVeOKS9QKEyXSFcovg853lG6e\neI1N3Si2cBPhDLKXX0IX05+ESwa3v1Idi1p11hnOmk4bb2ME0s8NdPPt+splC/3D\nxwifdjfnyTaSxOEXwf+emR/nF+fjAraTvwEsdD7+DQKBgQD4Z4QcuD1TXZC9v+2e\nJfITRCSvgNuIsuIAgMS+7PHkrnFNDzuX2n2KrAVIk2xEqiusJ7/MVzZ1lewVR4sQ\nm6X6stav6IVWSbkSMolJGw6i5tOGXZE1C66J6Tu5GpNagV52zn4YwUVjRXoFSYDa\nPcqilaLVELZJaX1ySGL8NJVJvQKBgQDOdKifWEV1qjD3WCFpfhZhWV7sDRVaqdGL\n06MqbbZV9DlJgLNBq7O8P/rC/RBLTKXQ/VycjkSiW5HNNRk/HNuWkMteWZnHG0vX\nBKxdOShPQK341B+kUwx6JdQjWNiZoD+GATbeUYrZtbfWdvMdRFqMDeVYBN9L2xVL\n/FKOjEeB7QKBgC7Gp20VEI9DPj9NBfzS3mvcWCAoXq62KLK5jNL7IW3Tn4hIRwuI\nXD2huPj6sdeYR9MKRSbAgYPQ8HztVPWSqcW0qZLEcV9XUJ9pnsqCatYoK0rREcfw\nZDSaE+H+bCMN23D532rf8iYIbjrSpY3zNtY44UnH9NuMHtBHa0RczoPtAoGAWyLA\nNOcAcnqYdvdeeHUCaCLNdiIoZQdFyxW3l0krDjJq/3liqAClrNoJVf3kLXk+UU0m\njq12urz1VcK0zFluzb5JJ/MhoPT5u4cCl3xdwO5qXcc12JIYlesRBDF6HAbTQ9JR\naD5Srtw6tN95XlgIKH8R2JL+BzxE4HAX+XkPL9kCgYAMFZPbgIg2FDIVSjWs6iUp\nKTrdLMBU7JL7F7RA1UttHPDQ2KK6k1IoUOFav7sSln9R0LlwkS0aAOjI8D4IeW1c\nyvoKLBAKMzhZkiQrMUWvgrIMhB5VhevX0t4mrNWrbLqVMOrL10DCEyOdLyGD4Qg4\naD7I04KOfkZVNQR1nX6+bQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "braden@bamboo-century-201222.iam.gserviceaccount.com",
+  "client_id": "106973835732360294595",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/braden%40bamboo-century-201222.iam.gserviceaccount.com"
+}
